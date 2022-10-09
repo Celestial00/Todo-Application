@@ -1,0 +1,121 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Didact Gothic', sans-serif;
+
+}
+
+.Task-list input{
+
+    width: 600px;
+    height: 40px;
+    border: none;
+    padding: 0px 15px;
+    background-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white    ;
+    cursor: pointer;
+    margin: 20px 10px;
+    font-size: 1.2em;
+    display: inline-block;
+
+}
+
+.Task-list button{
+
+    display: inline-block;
+    width: 90px;
+    height: 40px;
+     margin-left: 10px;   
+     border:none;
+     background-color: black;
+     color: white;
+     cursor: pointer;
+     border-radius: 10px;
+     
+    
+
+}
+
+
+li{
+
+    margin-top: 30px;
+    padding: 2px 20px;
+    width: 600px;
+   height: 40px;
+   list-style: none;
+   font-size: 1.5rem;
+   border: none;
+   border-radius: 10px;
+   background-color: #222222;
+   color: white;
+
+}
+
+.container{
+
+
+    margin: 6% 120px;
+   
+
+}
+
+
+.Task-fields{
+
+margin-bottom: 60px;
+   
+
+}
+
+
+.Task-fields h2{
+
+
+font-size: 5em; 
+margin-bottom: 30px;      
+    
+}
+
+
+.Task-fields input{
+
+
+   width: 600px;
+   height: 40px;
+   padding: 0px 10px;
+   border-radius: 10px;
+   font-size: 1em   ;
+ 
+     
+        
+}
+
+.Task-fields button{
+
+
+
+  width: 90px;
+  height: 40px;
+   margin-left: 10px;   
+   border:none;
+   background-color: black;
+   color: white;
+   cursor: pointer;
+   border-radius: 10px;
+   
+         
+ }
+ 
+
+.Task-list h3{
+
+
+    font-size: 1.8em;
+   
+
+}
